@@ -1,5 +1,5 @@
 # Blacklist-To-Mutes
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) + ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A python script to convert a blacklist into mutes through the Beem Library
 
